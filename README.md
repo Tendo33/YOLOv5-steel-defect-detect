@@ -1,2 +1,2 @@
 # YOLOv5_steel_defect_detect
-Steel surface defect detection using YOLOvv5
+Steel surface defect detection using YoloV5s
